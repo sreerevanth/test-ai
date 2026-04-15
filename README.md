@@ -1,7 +1,10 @@
 # TestAI 🚀
 
 An **AI-powered smart testing tool** built with React, Tailwind CSS, and Framer Motion. This premium SaaS platform automatically generates unit tests, detects edge cases, and performs intelligent fuzz testing.
+---
+![Uploading image.png…]()
 
+---
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/react-18.2-blue.svg)
 ![Node](https://img.shields.io/badge/node-16+-green.svg)
